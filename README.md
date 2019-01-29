@@ -1,1 +1,1 @@
-# digit_recogination
+#  MNIST HAND WRITTEN digit_recogination IN PYTORCH
